@@ -1,1 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
+:root {
+  --green-theme: #7ac751;
+  --grey-theme: #555555;
+  --red-theme: #ff6868;
+  --blue-theme: #00b7f1;
+}
